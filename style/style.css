@@ -1,0 +1,45 @@
+h1,
+h3,
+#setTime,
+div {
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+  color: #2b4074;
+}
+
+#setTime {
+  font-size: 2em;
+}
+
+button {
+  font-size: 1em;
+  color: #2b4074;
+}
+
+#decrease,
+#increase {
+  width: 1.3em;
+  height: 1.6em;
+  text-align: center;
+}
+
+#start {
+  width: 3em;
+  height: 1.5em;
+}
+
+span {
+  margin: 0 20px;
+}
+
+button:hover {
+  background-color: #2b4074;
+  color: gray;
+}
+
+#timer {
+  visibility: hidden;
+  font-size: 4em;
+  color: #2b4074;
+}

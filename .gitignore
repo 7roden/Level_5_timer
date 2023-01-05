@@ -1,0 +1,11 @@
+node_modules
+mySkript
+.husky
+
+src/greet.ts
+src/index.html
+src/main.ts
+dist/greet.js
+dist/index.html
+dist/main.js
+dist/bundle.js
